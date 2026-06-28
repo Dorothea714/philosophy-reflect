@@ -1,0 +1,9 @@
+{
+  "name": "哲学感悟分析器",
+  "short_name": "哲学感悟",
+  "description": "写下你的感悟，发现其中蕴含的哲学思想",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f5f0",
+  "theme_color": "#8f7043"
+}
