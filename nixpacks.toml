@@ -1,0 +1,9 @@
+# Railway / Nixpacks 构建配置
+[phases.setup]
+cmds = ["npm install"]
+
+[phases.build]
+cmds = ["npm run build"]
+
+[start]
+cmd = "npm run start"

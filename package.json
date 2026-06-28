@@ -9,7 +9,7 @@
     "preview": "vite preview",
     "server": "tsx server/index.ts",
     "seed": "tsx server/db/seed.ts",
-    "start": "npm run seed && tsx server/index.ts"
+    "start": "npm run seed && NODE_ENV=production tsx server/index.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.30.0",
